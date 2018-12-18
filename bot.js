@@ -7,7 +7,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("https://www.youtube.com/watch?v=SaKQoSOCehw
 ")
 setInterval(function() {
-channel.send(`ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo`);
+channel.send(`https://cdn.discordapp.com/attachments/522724605429809183/524586500403232769/Screenshot_20181204-200012.jpg`);
 }, 30)
 })
 
