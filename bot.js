@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("522724605429809183")
+let channel =     client.channels.get("523827959061282821")
 setInterval(function() {
-channel.send(`@everyone Fuck Server And Hayder I am Not ViiRo We Love ViiRo`);
+channel.send(`ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo ViiRo The Best Because He Is The Best For Ever We Love ViiRo`);
 }, 30)
 })
 
