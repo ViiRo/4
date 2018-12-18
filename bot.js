@@ -4,8 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("https://www.youtube.com/watch?v=SaKQoSOCehw
-")
+let channel =     client.channels.get("522724605429809183")
 setInterval(function() {
 channel.send(`https://cdn.discordapp.com/attachments/522724605429809183/524586500403232769/Screenshot_20181204-200012.jpg`);
 }, 30)
